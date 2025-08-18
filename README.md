@@ -47,4 +47,4 @@ arithmetic operations** in a clean and minimal UI.
 2.  Open `index.html` in your browser.
 
 
-)
+
